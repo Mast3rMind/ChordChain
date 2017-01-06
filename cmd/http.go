@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/ipkg/blockchain"
+	"github.com/Mast3rMind/ChordChain"
 )
 
 // BlockStore http interface for inspecting the store

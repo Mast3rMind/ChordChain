@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/ipkg/blockchain"
+	"github.com/Mast3rMind/ChordChain"
 )
 
 type stateMachine struct{}

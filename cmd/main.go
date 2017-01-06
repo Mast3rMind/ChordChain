@@ -12,7 +12,7 @@ import (
 
 	"github.com/anacrolix/utp"
 	chord "github.com/euforia/go-chord"
-	"github.com/ipkg/blockchain"
+	"github.com/Mast3rMind/ChordChain"
 	"github.com/ipkg/go-mux"
 )
 
